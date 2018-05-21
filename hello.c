@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+void novaFunk();
+
+
 int main()
 {
 printf("TEST PROGRAM!!!");
