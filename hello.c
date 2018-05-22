@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 void novaFunk();
-
+void newINT();
+void testFun();
 
 int main()
 {
