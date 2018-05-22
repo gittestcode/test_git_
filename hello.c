@@ -20,3 +20,9 @@ return 0;
 
 
 }
+void testFun()
+{
+printf("Ispis_test_ext_INT");
+
+
+}
